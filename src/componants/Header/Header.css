@@ -11,7 +11,7 @@
 .header-container {
     position: sticky;
     text-align: center;
-    background-color: blue;
+    background-color: rgba(8, 35, 142, 0.918);
 }
 
 .header-container nav a:hover {

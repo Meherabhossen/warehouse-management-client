@@ -1,18 +1,13 @@
 .extrasection-container {
-    /* height: 380px; */
-    border: 10px solid lightcoral;
+    
+    border: 3px solid darkblue;
+    height: 300px;
     border-radius: 15px;
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
-    color: blue;
-    background-color: bisque;
-}
-
-.extrasection-container:hover {
-    background-color: coral;
-    color: black;
-    transition-duration: 7s;
+    color:rgba(8, 35, 142, 0.918);
+    
 }
 
 .extra-image {
@@ -33,4 +28,8 @@
 .advertisement {
     margin-top: 20px;
     text-align: center;
+}
+.discount {
+    font-size: 25px;
+    margin-top: 35px;
 }

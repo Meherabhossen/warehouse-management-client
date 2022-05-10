@@ -39,11 +39,12 @@
 .paigination .selected {
     background-color: orangered;
     color: whitesmoke;
+    
 }
 
 .Restoke-Quantity {
     font-size: xx-large;
-    background-color: crimson;
+    background-color: rgba(8, 35, 142, 0.918);
     color: black;
     text-align: center;
 }

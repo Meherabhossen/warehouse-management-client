@@ -1,18 +1,10 @@
 .container {
     width: auto;
-    border: 10px solid lightcoral;
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
     padding-bottom: 20px;
-    background-color: blanchedalmond;
 }
-
-.container:hover {
-    background-color: brown;
-    transition-duration: 5s;
-}
-
 .card-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -20,24 +12,24 @@
 }
 
 .name {
-    color: crimson;
+    color: black;
     font-size: xx-large;
 }
 
 .suppliar {
-    color: darkgreen;
+    color: black;
     font-size: x-large;
 }
 
 .discription {
-    color: blue;
+    color: black;
     font-size: larger;
     /* font-family: 'Courier New', Courier, monospace; */
 }
 
 .quantity {
-    color: red;
-    font-size: xx-large;
+    color: darkred;
+    font-size: 35px;
     font-weight: 700;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -48,33 +40,21 @@
 }
 
 .Update-button {
-    background-color: coral;
-    color: black;
+    background-color: rgba(8, 35, 142, 0.918);
+    color: white;
     padding-left: 5px;
     padding-right: 5px;
     font-size: x-large;
-    border: 5px solid coral;
+    
     border-radius: 5px;
     text-decoration: none;
 }
 
-.Update-button:hover {
-    background-color: brown;
-    color: wheat;
-    border: 5px solid brown;
-    transition-duration: 5s;
-}
-
 .title {
-    color: red;
+    color: rgba(8, 35, 142, 0.918);
     font-size: xx-large;
     margin-top: 15px;
     margin-bottom: 15px;
-}
-
-.title:hover {
-    color: white;
-    transition-duration: 4s;
 }
 
 .Manage-Inventory-btn-1 {

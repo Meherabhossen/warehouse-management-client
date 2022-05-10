@@ -1,19 +1,14 @@
 .extrasection2-container {
-    /* height: 380px; */
-    border: 10px solid green;
+    
+    border: 3px solid darkblue;
+    height: 300px;
     border-radius: 15px;
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
-    color: orangered;
-    background-color: lemonchiffon;
-}
+    color:rgba(8, 35, 142, 0.918) ;
+    }
 
-.extrasection2-container:hover {
-    background-color: crimson;
-    transition-duration: 7s;
-    color: aliceblue;
-}
 
 .extra-image2 {
     display: grid;
