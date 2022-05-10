@@ -1,12 +1,12 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 import { Link, Navigate, useNavigate } from 'react-router-dom';
-import image1 from '../Images/img-1.jpg'
-import image2 from '../Images/img-2.jpg'
-import image3 from '../Images/img-3.jpg'
-import image4 from '../Images/img-4.jpg'
-import image5 from '../Images/img-5.jpg'
-import image6 from '../Images/img-6.jpg'
+import image1 from '../Images/img-1.jfif'
+import image2 from '../Images/img-2.jfif'
+import image3 from '../Images/img-3.jfif'
+import image4 from '../Images/img-4.jfif'
+import image5 from '../Images/img-5.jfif'
+import image6 from '../Images/img-6.jfif'
 import './Inventory.css'
 
 const Inventory = () => {
@@ -25,11 +25,11 @@ const Inventory = () => {
                     <div class="card">
                         <img src={image1} class="card-img-top" alt="..." />
                         <div class="card-body">
-                            <h5 class="name">Dell-g3</h5>
-                            <p class="discription">It has 128 GB SSD and 1TB HDD.It is black color.It is 15 inche HD display</p>
+                            <h5 class="name">RC Monstar Track</h5>
+                            <p class="discription">It has turbo charge motor and 6000mh battery</p>
                             <p class="quantity">Quantity:4</p>
-                            <p class="suppliar">Supplier : AR TELECOM</p>
-                            <p class="price">Price : $ 30000</p>
+                            <p class="suppliar">Supplier : MH toys</p>
+                            <p class="price">Price : $ 4000</p>
                             <Link to="/productdetails" className='Update-button' onClick={navigateProductDetails}>Update</Link>
                         </div>
                     </div>
@@ -38,11 +38,11 @@ const Inventory = () => {
                     <div class="card">
                         <img src={image2} class="card-img-top" alt="..." />
                         <div class="card-body">
-                            <h5 class="name">Asus-core i7</h5>
-                            <p class="discription">It is Asus brand laptop,it has 512GB SSD and 1TB HDD,It is white color.</p>
+                            <h5 class="name">Teddy Bear</h5>
+                            <p class="discription">Super soft teddy bear with best wool.</p>
                             <p class="quantity">Quantity:2</p>
-                            <p class="suppliar">Supplier : AR TELECOM</p>
-                            <p class="price">Price : $ 80000</p>
+                            <p class="suppliar">Supplier :Gk group</p>
+                            <p class="price">Price : $ 1000</p>
                             <Link to="/productdetails" className='Update-button' onClick={navigateProductDetails}>Update</Link>
                         </div>
                     </div>
@@ -51,11 +51,11 @@ const Inventory = () => {
                     <div class="card">
                         <img src={image3} class="card-img-top" alt="..." />
                         <div class="card-body">
-                            <h5 class="name">Apple-Y10</h5>
-                            <p class="discription">It is Apple brand laptop.It is 10 generation laptop.It is white color.</p>
+                            <h5 class="name">Lego Ship</h5>
+                            <p class="discription">This is Lego ship, it help children to think sharply.</p>
                             <p class="quantity">Quantity:3</p>
-                            <p class="suppliar">Supplier : AR TELECOM</p>
-                            <p class="price">Price : $ 75000</p>
+                            <p class="suppliar">Supplier : AR group</p>
+                            <p class="price">Price : $ 1500</p>
                             <Link to="/productdetails" className='Update-button' onClick={navigateProductDetails}>Update</Link>
                         </div>
                     </div>
@@ -64,11 +64,11 @@ const Inventory = () => {
                     <div class="card">
                         <img src={image4} class="card-img-top" alt="..." />
                         <div class="card-body">
-                            <h5 class="name">Acer-Core i3</h5>
-                            <p class="discription">It is Acer brand laptop,it has no SSD only has 1TB HDD, it is black colour.</p>
+                            <h5 class="name">RC Jeep</h5>
+                            <p class="discription">Super fast double motor rc jeep. It has 2 turbo motor</p>
                             <p class="quantity">Quantity:5</p>
-                            <p class="suppliar">Supplier : AR TELECOM</p>
-                            <p class="price">Price : $ 44000</p>
+                            <p class="suppliar">Supplier : MH Toys</p>
+                            <p class="price">Price : $ 4000</p>
                             <Link to="/productdetails" className='Update-button' onClick={navigateProductDetails}>Update</Link>
                         </div>
                     </div>
@@ -77,11 +77,11 @@ const Inventory = () => {
                     <div class="card">
                         <img src={image5} class="card-img-top" alt="..." />
                         <div class="card-body">
-                            <h5 class="name">Acer-Core i5</h5>
-                            <p class="discription">It is Acer brand laptop,it has 128GB SSD and 500GB HDD,It has keybord backlight.It is ass colour laptop.</p>
+                            <h5 class="name">RC Fighter Jet</h5>
+                            <p class="discription">Rc fighter jet it has 2 dual charged engine it can fly 20 meters.</p>
                             <p class="quantity">Quantity:9</p>
-                            <p class="suppliar">Supplier : AR TELECOM</p>
-                            <p class="price">Price : $ 58000</p>
+                            <p class="suppliar">Supplier : MH Toys</p>
+                            <p class="price">Price : $ 8000</p>
                             <Link to="/productdetails" className='Update-button' onClick={navigateProductDetails}>Update</Link>
                         </div>
                     </div>
@@ -90,11 +90,11 @@ const Inventory = () => {
                     <div class="card">
                         <img src={image6} class="card-img-top" alt="..." />
                         <div class="card-body">
-                            <h5 class="name">Asus-Core i7</h5>
-                            <p class="discription">It is Asus brand laptop,it has 512GB SSD and 1TB HDD,It is blue color.It is very beautiful laptop.</p>
+                            <h5 class="name">RC Robot</h5>
+                            <p class="discription">This is Rc robot it has one speaker and 4 motors and 4000mh battery</p>
                             <p class="quantity">Quantity:5</p>
-                            <p class="suppliar">Supplier : AR TELECOM</p>
-                            <p class="price">Price : $ 95000</p>
+                            <p class="suppliar">Supplier : MH toys</p>
+                            <p class="price">Price : $ 5000</p>
                             <Link to="/productdetails" className='Update-button' onClick={navigateProductDetails}>Update</Link>
                         </div>
                     </div>

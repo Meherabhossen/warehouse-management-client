@@ -1,4 +1,6 @@
 .card {
+    border: 3px solid rgba(8, 35, 142, 0.918);
+    border-radius: 10px;
     height: 100%;
     
     

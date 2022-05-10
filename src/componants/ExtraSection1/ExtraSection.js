@@ -8,7 +8,7 @@ const ExtraSection = () => {
     return (
         <div className='extrasection-container'>
             <div className='image-container'>
-                <h1> PcHouse warehouse</h1>
+                <h1> Our warehouse</h1>
                 <div className='d-flex justify-content-center'>
                 <div className='extra-image gap-4'>
                     <img src={image1} alt="" />

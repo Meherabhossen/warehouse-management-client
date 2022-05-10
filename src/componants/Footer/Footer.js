@@ -12,12 +12,12 @@ const Footer = () => {
             <br />
             <a href="http://"><MailIcon className='Icon'></MailIcon></a><b> Personal: Pchouse@gmail.com</b>
             <br />
-            <a href="https://www.startech.com.bd/">
+            <a href="https://www.daraz.com.bd/toys-games/">
                 <ChatAltIcon className='Icon'></ChatAltIcon></a>
-            <a href="https://o.aolcdn.com/images/dar/5845cadfecd996e0372f/00903991c0317ca54a58a4c25779ac69a4d57787/aHR0cDovL28uYW9sY2RuLmNvbS9oc3Mvc3RvcmFnZS9taWRhcy9mZjRlZTI1M2M1ZGU0YTJhN2QyOGM3MWMwOGRkYmFkOS8yMDM3MjExMzQvY29tcHV0ZXIrc3RvcmUucG5n"><PhotographIcon className='Icon'></PhotographIcon></a>
-            <a href="https://youtu.be/IEOi8NlkUPg"><PlayIcon className='Icon'></PlayIcon></a>
+            <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbqk1EDPefLg8zbHKoT9ag7gGtHeqUHcPOA&usqp=CAU"><PhotographIcon className='Icon'></PhotographIcon></a>
+            <a href="https://youtu.be/UBICz01PcNM"><PlayIcon className='Icon'></PlayIcon></a>
 
-            <h1>Copyrite <FontAwesomeIcon icon={faCopyright}></FontAwesomeIcon> 2022 PcHouse Website</h1>
+            <h1>Copyrite <FontAwesomeIcon icon={faCopyright}></FontAwesomeIcon> 2022 ToyLand Website</h1>
         </div>
     );
 };

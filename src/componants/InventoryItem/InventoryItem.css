@@ -50,18 +50,18 @@
 }
 
 .Restoke {
+    margin-top:5px ;
     font-size: xx-large;
-    background-color: crimson;
+    background-color: rgba(8, 35, 142, 0.918);
     color: aliceblue;
 }
 
 .Manage-Inventory-btn-2 {
     margin-top: 5px;
-    background-color: coral;
-    color: black;
+    background-color: rgba(8, 35, 142, 0.918);
+    color: white;
     margin-bottom: 20px;
     font-size: x-large;
-    border: 5px solid coral;
     border-radius: 5px;
     text-decoration: none;
 }
