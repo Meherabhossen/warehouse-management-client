@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "laptop-werehouse-website"
-  }
+    "default": "laptop-werehouse-website",
+    "nothing": "assignment-11-6f437"
+  },
+  "targets": {}
 }

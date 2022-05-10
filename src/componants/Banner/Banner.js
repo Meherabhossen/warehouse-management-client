@@ -9,7 +9,7 @@ const Banner = () => {
             <Carousel.Item>
                 <img style={{height: '600px'}}
                     className="d-block w-100"
-                    src="https://5.imimg.com/data5/PF/VJ/EN/SELLER-9295383/dell-desktop-computer-500x500.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQVsJ2BPkTikBgNePVtoV_jt5ePHJVwlVhQ&usqp=CAU"
                     alt="First slide"
                 />
                 <Carousel.Caption>
@@ -20,7 +20,7 @@ const Banner = () => {
             <Carousel.Item>
                 <img style={{height: '600px'}}
                     className="d-block w-100"
-                    src="https://blogs.windows.com/wp-content/uploads/2016/09/Dell-XPS-5.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnPF4FOCWhsDN-fY2-bo1xuaN4zZpAKpu0qnGco5pcZmrNRbMbNCHwzZWev1w3ShKRXM&usqp=CAU"
                     alt="Second slide"
                 />
 
@@ -32,7 +32,7 @@ const Banner = () => {
             <Carousel.Item>
                 <img style={{height: '600px'}}
                     className="d-block w-100"
-                    src="https://www.techpowerup.com/img/E2hv27fCI6su1mHV.jpg"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhN-8RKwGTPhH6Eutr65yrs3H-ZDXHi9aezQ&usqp=CAU"
                     alt="Third slide"
                 />
 
