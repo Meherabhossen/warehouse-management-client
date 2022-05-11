@@ -7,7 +7,7 @@ const ExtraSectionTwo = () => {
     return (
         <div className='extrasection2-container'>
             <div className='image-container'></div>
-            <h1 > our Upcoming Toys</h1>
+            <h1 > Our Upcoming Toys</h1>
             <div className='d-flex justify-content-center'>
             <div className='extra-image2 gap-4'>
                 <img src={image1} alt="" />

@@ -10,7 +10,7 @@ const Footer = () => {
             <b>22/6 hallishahar , Chittagong , Bangladesh</b><br />
             <a href=""><PhoneIcon className='Icon'></PhoneIcon></a><b> Helpline:   +8801723512, +88015152343</b>
             <br />
-            <a href="http://"><MailIcon className='Icon'></MailIcon></a><b> Personal: Pchouse@gmail.com</b>
+            <a href="http://"><MailIcon className='Icon'></MailIcon></a><b> Personal: toyland@gmail.com</b>
             <br />
             <a href="https://www.daraz.com.bd/toys-games/">
                 <ChatAltIcon className='Icon'></ChatAltIcon></a>
